@@ -4,8 +4,6 @@ I am a passionate ML enthusiast, Python Programmer and love developing different
 Python, C, C++, Flask, git, Sklearn, ML Algo, Data visualization, Tensorflow, HTML, CSS, Data Structures and algorithms
 
  Do check my **repos** and hit a ⭐ if you like them 🤗 .
-<!--
-**shaonakundu/shaonakundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### To know a little more about me:
 
@@ -18,4 +16,4 @@ Python, C, C++, Flask, git, Sklearn, ML Algo, Data visualization, Tensorflow, HT
 - I'm Campus Hero and Community Manager of GirlScript Agartala, General Secretary of Enlightenment Club (NIT Agartala), Volunteer at We Can(Club which focusses in oerall development of poor kids) at NIT Agartala, Junior Coordinator Head at Sanganan Prayog at NIT Agartala(First Space club in NOrth East India) 
 - 💬 Ask me about **Machine learning, NLP, DSA** in general
 - 📫 How to reach me: shaonakundu14@gmail.com
--->
+
