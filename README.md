@@ -13,7 +13,7 @@ Python, C, C++, Flask, git, Sklearn, ML Algo, Data visualization, Tensorflow, HT
 - 🤝 I’m looking to collaborate on various open source projects and Research oriented projects
 - 💻 I’m focussing to strengthen my DSA concepts and practicing coding to develop my Problem solving ability
 - Loves to 💃 dance,🎶 listen music,🎨 paint, and even in 🏸 badminton and 🏀 basketball. 
-- I'm Campus Hero and Community Manager of GirlScript Agartala, General Secretary of Enlightenment Club (NIT Agartala), Volunteer at We Can(Club which focusses in oerall development of poor kids) at NIT Agartala, Junior Coordinator Head at Sanganan Prayog at NIT Agartala(First Space club in NOrth East India) 
+- I'm Campus Hero and Community Manager of GirlScript Agartala, General Secretary of Enlightenment Club (NIT Agartala), Volunteer at We Can(Club which focusses in overall development of poor kids) at NIT Agartala, Junior Coordinator Head at Sanganan Prayog at NIT Agartala(First Space club in NOrth East India) 
 - 💬 Ask me about **Machine learning, NLP, DSA** in general
 - 📫 How to reach me: shaonakundu14@gmail.com
 
