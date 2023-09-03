@@ -1,16 +1,16 @@
 ### Hola Amigos!! I'm Shaona Kundu 👋 
 I am a passionate Programmer, ML enthusiast,and love developing different tech skills, interested in contributing to open source projects and help developing real-world problem solutions.
 ### My Interest areas lies in the areas: 
-Python, JAVA, C, C++, Flask, git, Sklearn, ML Algo, Data visualization, HTML, CSS, Angualar, React, Typescript and Data Structures and algorithms.
+Python, JAVA, SpringBoot, git, Sklearn, ML Algo, Data visualization, HTML, CSS, React, Typescript and Data Structures and algorithms,Flask, Django.
 
  Do check my **repos** and hit a ⭐ if you like them 🤗 .
 
 ### To know a little more about me:
 
-- 💻 I am currently working as a Member of Technical Staff at **VMware, India**
+- 💻 I am currently working as a Member of Technical Staff at **VMware, India**. My work extends in backend development using JAVA and SpringBoot as tech stack.
 - 👩‍🎓 I'm a Computer Science Engineering graduate from **Indian Institute of Information Technology, Agartala**
 - 🔭 I have contributed to open source project "News Classifier" using ML, NLP. Tech stacks - Flask, HTML, CSS, Sklearn
-- 📖 I’m currently learning Angualar with Typescript. Further my learning will extend to React
+- 📖 I’m keen on learning other backend frameworks and extend my knowledge in Frontend tech like React too.
 - 🤝 I’m looking to collaborate on various open source projects and Research oriented projects
 - 💻 I’m focussing to strengthen my DSA concepts and practicing coding to develop my Problem solving ability
 - Loves to 💃 dance,🎶 listen music,🎨 paint, and even in 🏸 badminton and 🏀 basketball
